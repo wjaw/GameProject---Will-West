@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=g\ k
+comment1.target=Player(GamePanel,\ KeyHandler)
+comment2.params=
+comment2.target=void\ setDefaultValues()
+comment3.params=
+comment3.target=void\ getAttackImage()
+comment4.params=
+comment4.target=void\ getPlayerImage()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ attacking()
+comment7.params=index
+comment7.target=void\ contactMonster(int)
+comment8.params=i
+comment8.target=void\ damageMonster(int)
+comment9.params=g2
+comment9.target=void\ draw(java.awt.Graphics2D)
+numComments=10

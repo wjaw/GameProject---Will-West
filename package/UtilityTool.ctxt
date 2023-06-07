@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=UtilityTool
+comment1.params=original\ width\ height
+comment1.target=java.awt.image.BufferedImage\ scaleImage(java.awt.image.BufferedImage,\ int,\ int)
+numComments=2

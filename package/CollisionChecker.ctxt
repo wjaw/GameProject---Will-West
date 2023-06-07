@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CollisionChecker
+comment1.params=g
+comment1.target=CollisionChecker(GamePanel)
+comment2.params=entity
+comment2.target=void\ checkTile(Entity)
+comment3.params=entity\ target
+comment3.target=int\ CheckEntity(Entity,\ java.util.ArrayList)
+comment4.params=entity
+comment4.target=boolean\ checkPlayer(Entity)
+comment5.params=entity
+comment5.target=void\ checkFutureMovement(Entity)
+numComments=6

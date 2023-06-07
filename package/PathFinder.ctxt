@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PathFinder
+comment1.params=g
+comment1.target=PathFinder(GamePanel)
+comment2.params=
+comment2.target=void\ instantiateNodes()
+comment3.params=
+comment3.target=void\ resetNodes()
+comment4.params=StartCol\ StartRow\ GoalCol\ GoalRow
+comment4.target=void\ setNodes(int,\ int,\ int,\ int)
+comment5.params=node
+comment5.target=void\ getCost(node)
+comment6.params=
+comment6.target=boolean\ search()
+comment7.params=
+comment7.target=void\ trackThePath()
+comment8.params=node
+comment8.target=void\ openNode(node)
+numComments=9

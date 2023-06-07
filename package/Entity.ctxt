@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=g
+comment1.target=Entity(GamePanel)
+comment2.params=imageName\ width\ height
+comment2.target=java.awt.image.BufferedImage\ setup(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ setAction()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=goalCol\ goalRow
+comment5.target=void\ searchPath(int,\ int)
+comment6.params=g2
+comment6.target=void\ draw(java.awt.Graphics2D)
+numComments=7

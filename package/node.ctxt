@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=node
+comment1.params=col\ row
+comment1.target=node(int,\ int)
+numComments=2

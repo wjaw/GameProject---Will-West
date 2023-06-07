@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Wave
+comment1.params=g
+comment1.target=Wave(GamePanel)
+comment2.params=
+comment2.target=void\ Update()
+comment3.params=
+comment3.target=void\ SpawnWave()
+comment4.params=i
+comment4.target=void\ spawnEnemy(int)
+numComments=5
